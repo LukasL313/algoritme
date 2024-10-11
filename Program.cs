@@ -12,7 +12,7 @@ namespace Program
 
         public static void Main(string[] args)
         {
-          int hello = 1;
+          Console.WriteLine(Hello, World!);
         } 
     }
 }
